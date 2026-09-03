@@ -5,11 +5,15 @@
 }
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: rgb(82, 149, 53);
+    background:url(linkinpark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 header{
-    background: rgb(35, 107, 22);
-    color: rgb(6, 58, 13);
+    background: rgb(96, 87, 97);
+    color: black;
     padding: 16px 0;
     text-align: center;
 }
@@ -24,19 +28,19 @@ nav ul li{
     margin:10px
 }
 nav ul li a{
-    color:rgb(8, 39, 13);
+    color:rgb(0, 0, 0);
     text-decoration: none;
     transition: color 0.3s ease;
 }
 nav ul li a:hover{
-    color:rgb(28, 145, 71);
+    color:rgb(145, 7, 7);
     cursor:pointer;
 }
 /* Seções */
 section{
     padding: 32px;
     margin: 16px;
-    background: rgb(163, 234, 156);
+    background: rgba(121, 125, 111, 0.316);
     border-radius: 8px;
     box-shadow: 0 4px 8px;
     justify-items:center;
@@ -45,7 +49,6 @@ section{
 .container{
     max-width: 600px;
     margin:0;
-    
 }
 h2{
     margin-bottom: 16px;
@@ -85,14 +88,14 @@ h2{
     font-size: 18px
  }
  .formacao i{
-    color:rgb(0, 50, 0)
+    color:rgb(0, 0, 0)
  }
  .formacao h3{
     margin-bottom: 8px;
-    color:darkgreen
+    color:rgb(0, 0, 0)
  }
  .formacao p{
-    color:rgb(53, 107, 47)
+    color:black
  }
  .cards{
     display:flex;
@@ -107,14 +110,14 @@ h2{
     font-size: 18px
  }
  .card i{
-    color:rgb(0, 50, 0)
+    color:rgb(0, 0, 0)
  }
  .card h3{
     margin-bottom: 8px;
-    color:darkgreen
+    color:black
  }
  .card p{
-    color:rgb(53, 107, 47)
+    color:rgb(0, 0, 0)
  }  
   .hobbies{
     display:flex;
@@ -129,14 +132,14 @@ h2{
     font-size: 18px
  }
  .hobby i{
-    color:rgb(0, 50, 0)
+    color:rgb(0, 0, 0)
  }
  .hobby h3{
     margin-bottom: 8px;
-    color:darkgreen
+    color:rgb(4, 4, 4)
  }
  .hobby p{
-    color:rgb(53, 107, 47)
+    color:rgb(2, 2, 2)
  }
  form{
     display: grid;
@@ -148,14 +151,14 @@ h2{
     border-radius: 2%;
  }
  button{
-    background:darkseagreen;
+    background:rgb(255, 97, 136);
     padding: 10px;
     border-radius: 4px;
     cursor: pointer;
     transition: background 0.3s ease, color 0.3s ease;
  }
  button:hover{
-    background:rgb(60, 91, 54);
+    background:rgb(189, 9, 66);
     color:black;
  }
  footer{
@@ -180,8 +183,8 @@ h2{
  }
  .rede-social h3{
     margin-bottom: 8px;
-    color:darkgreen
+    color:rgb(0, 0, 0)
  }
  .rede-social p{
-    color:rgb(53, 107, 47)
+    color:rgb(0, 0, 0)
  }
