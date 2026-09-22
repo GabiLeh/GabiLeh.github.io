@@ -20,4 +20,3 @@ A ``I.A.`` foi utilizada para me auxiliar com o site, já que é um site complex
 * Hobbies
 * Redes sociais
 * Enviar mensagem
-* Aviso do uso da imagem
