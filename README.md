@@ -1,5 +1,3 @@
-# BUGOOOOOOOOOOU, terça ou sabado será arrumado
-
 # Meu portifólio
 Ele está completo e é possível enviar mensagens.
 ## Recursos utilizados
