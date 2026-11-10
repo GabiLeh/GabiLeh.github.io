@@ -19,4 +19,3 @@ A ``I.A.`` foi utilizada para me auxiliar com o site, já que é um site complex
 * Projetos
 * Hobbies
 * Redes sociais
-* Enviar mensagem
